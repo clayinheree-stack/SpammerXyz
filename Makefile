@@ -51,4 +51,4 @@ run:
 	$(call install_deps)
 	@echo "$(GREEN)[+] SYSTEM READY. EXECUTING ENCODED SCRIPT...$(RESET)"
 	@sleep 1
-	@bash enc_Xyz.sh
+	@bash Xyz.sh
